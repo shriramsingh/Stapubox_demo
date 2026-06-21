@@ -1,0 +1,16 @@
+export const colors = {
+  background: '#292a2c',
+  panel: '#323334',
+  white: '#f8f8f8',
+  muted: '#8e8e93',
+  placeholder: '#656668',
+  border: '#8d8f92',
+  blue: '#2f9cf4',
+  disabled: '#343536',
+  disabledText: '#57585a',
+  iconCircle: '#434446',
+  otpBorder: '#5e6062',
+  optionText: '#202124',
+  optionDivider: '#e9e9e9',
+  error: '#ff3b30',
+};
